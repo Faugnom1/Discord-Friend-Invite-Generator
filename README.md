@@ -9,7 +9,7 @@ The app will prompt you for your token and then create a link that is valid for 
 
 And this is what the link will look like to another user:  
 
-![invite image}(https://github.com/Faugnom1/Discord-Firend-Invite-Generator/blob/main/Invite-Example.png?raw=true)
+![invite image](https://github.com/Faugnom1/Discord-Firend-Invite-Generator/blob/main/Invite-Example.png?raw=true)
 
 The code can also be used on 
 

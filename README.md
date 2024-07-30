@@ -11,5 +11,4 @@ And this is what the link will look like to another user:
 
 ![invite image](https://github.com/Faugnom1/Discord-Firend-Invite-Generator/blob/main/Invite-Example.png?raw=true)
 
-The code can also be used on 
 

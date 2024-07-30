@@ -1,2 +1,1 @@
-# Discord Firend Invite Generator
- Creates perosnalized friend request links for Discord
+# Discord-Friend-Request-Generator

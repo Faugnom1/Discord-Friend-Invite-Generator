@@ -5,7 +5,7 @@ Follow these directions to find your Discord token - https://gist.github.com/Mar
 
 The app will prompt you for your token and then create a link that is valid for 5 uses and lasts for 7 days.   
 
-![app image](https://github.com/Faugnom1/Discord-Firend-Invite-Generator/blob/main/App-Ui.png?raw=true)  
+![app image](https://github.com/Faugnom1/Discord-Firend-Invite-Generator/blob/main/App-Ui.png?raw=true)   
 
 And this is what the link will look like to another user:  
 

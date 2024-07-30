@@ -18,11 +18,11 @@ def create_invite(token):
         "Sec-GPC": "1"
     }
     
-    data = "{}"  # Empty JSON object
+    data = "{}" 
     
     try:
         response = requests.post(url, headers=headers, data=data)
-        response.raise_for_status()  # Raises an HTTPError for bad responses
+        response.raise_for_status()
         
         invite_data = response.json()
         invite_link = f"https://discord.gg/{invite_data['code']}"
